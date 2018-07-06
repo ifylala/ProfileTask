@@ -262,7 +262,7 @@ h1 {
 .left-section {
     flex-basis: 50%;
     -webkit-flex-basis: 50%;
-    background: url(../images/left.jpg)no-repeat 0px 0px;
+    background: url(../images/pix.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
